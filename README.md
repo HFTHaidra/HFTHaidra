@@ -9,10 +9,20 @@ High-Frequency Trading Engineer & Web3 Developer
 </h3>
 
 <p align="center">
-  <a href="https://hft8.com" target="_blank">🌐 Website</a> •
-  <a href="https://github.com/HFTHaidra" target="_blank">💻 GitHub</a> •
-  <a href="https://youtube.com/@HFTHaidra" target="_blank">📺 YouTube</a> •
-  <a href="https://t.me/HFTHaidra" target="_blank">📨 Telegram</a>
+  <p align="center">
+  <a href="https://hft8.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-HFT8.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://github.com/HFTHaidra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HFTHaidra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@HFTHaidra" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/HFTHaidra" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 </p>
 
 ---
