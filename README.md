@@ -233,7 +233,10 @@ High-Frequency Trading Engineer & Web3 Developer
 - 📈 **Deep Reinforcement Learning for Automated Stock Trading** – RL agents connected to market data.  
 - 🌐 **HFT8 Platform** – Social & copy trading platform with CRM, KYC, payments, and multi-role dashboards.  
 
-> 🔒 Many of my broker / proprietary projects are private, but I’m happy to discuss architecture and tech stacks.
+🔒 Most of my production work for brokers, prop firms and individual clients
+(MetaTrader Manager/Admin API integrations, C#/.NET backends, REST/WebSocket
+bridges, HFT tools, risk engines, trade copiers, automation scripts) is private
+and under NDA, so only a small part of what I build is visible on GitHub.
 
 ---
 
