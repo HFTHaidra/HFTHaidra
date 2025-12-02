@@ -50,21 +50,109 @@ High-Frequency Trading Engineer & Web3 Developer
 ---
 #### 💻 Main Stack 
 
+### 🧰 Tech Stack & Platforms (Badges)
+
+#### 🔥 Main Stack – .NET, C#, MetaTrader
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#/.NET" />
-  <img src="https://img.shields.io/badge/MQL4%2F5-003366?style=for-the-badge&logo=meta&logoColor=white" alt="MQL4/5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Web_API-232F3E?style=for-the-badge&logo=api&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/MetaTrader_4-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 4" />
+  <img src="https://img.shields.io/badge/MetaTrader_5-FF9900?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 5" />
+  <img src="https://img.shields.io/badge/MQL4_/_MQL5-003366?style=for-the-badge&logo=codeproject&logoColor=white" alt="MQL4/5" />
+</p>
+
+#### 🧩 Next.js, JavaScript & Frontend Ecosystem
+<p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+  <img src="https://img.shields.io/badge/Highcharts-005C84?style=for-the-badge&logo=highcharts&logoColor=white" alt="Highcharts" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Pine%20Script-008080?style=for-the-badge&logo=tradingview&logoColor=white" alt="Pine Script" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Fluent_UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fluent UI" />
+</p>
+
+#### 🧱 C, C++, CLI & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/C-0A7BB5?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CLI / Bash" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
+</p>
+
+#### 🧪 Python, Data & ML
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white" alt="Spyder" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+#### 🌐 PHP, Laravel & Classic Web
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🧮 Pascal, cAlgo & cTrader
+<p align="left">
+  <img src="https://img.shields.io/badge/Pascal-002C61?style=for-the-badge&logo=freebsd&logoColor=white" alt="Pascal" />
+  <img src="https://img.shields.io/badge/cTrader-1C2C4C?style=for-the-badge&logo=tradingview&logoColor=white" alt="cTrader" />
+  <img src="https://img.shields.io/badge/cAlgo-1C2C4C?style=for-the-badge&logo=tradingview&logoColor=white" alt="cAlgo" />
+</p>
+
+#### 🔗 HTTP, REST, APIs & Integrations
+<p align="left">
+  <img src="https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=w3c&logoColor=white" alt="HTTP" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/WebSockets-333333?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/Broker_APIs-0F172A?style=for-the-badge&logo=briefcase&logoColor=white" alt="Broker APIs" />
+  <img src="https://img.shields.io/badge/Exchange_APIs-111827?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Exchange APIs" />
+  <img src="https://img.shields.io/badge/3rd_Party_Libraries-4B5563?style=for-the-badge&logo=code&logoColor=white" alt="3rd Party Libraries" />
+</p>
+
+#### 🪙 CEX / DEX, Web3 & Wallets
+<p align="left">
+  <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000000" alt="Binance" />
+  <img src="https://img.shields.io/badge/Bybit-FFB400?style=for-the-badge&logo=bytedance&logoColor=000000" alt="Bybit" />
+  <img src="https://img.shields.io/badge/OKX-000000?style=for-the-badge&logo=okx&logoColor=white" alt="OKX" />
+  <img src="https://img.shields.io/badge/Apex_Pro-111827?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apex Pro" />
+  <img src="https://img.shields.io/badge/AstraDex-0F172A?style=for-the-badge&logo=stellar&logoColor=white" alt="AstraDex" />
+  <img src="https://img.shields.io/badge/Hyperliquid-0B1120?style=for-the-badge&logo=waves&logoColor=white" alt="Hyperliquid" />
+  <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" alt="MetaMask" />
+</p>
+
+#### 📊 Databases
+<p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+#### ⚙️ MetaTrader Platform APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/MetaTrader_APIs-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader APIs" />
+  <img src="https://img.shields.io/badge/MT4_MT5_Manager_API-1F2933?style=for-the-badge&logo=metatrader&logoColor=white" alt="Manager APIs" />
+  <img src="https://img.shields.io/badge/MT4_MT5_Admin_API-374151?style=for-the-badge&logo=metatrader&logoColor=white" alt="Administrator APIs" />
 </p>
 
 ### 🧠 Core Domains
