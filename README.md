@@ -1,7 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Haidra Mohamed Elamine</h1>
 <h3 align="center">
-MetaTrader & High-Frequency Trading Engineer · Full-Stack & Web3 Developer
+MetaTrader Developer, Full-Stack Developer, API Integration, C# .NET Backend
+</h3>
+
+<h3 align="center">
+High-Frequency Trading Engineer & Web3 Developer
 </h3>
 
 <p align="center">
