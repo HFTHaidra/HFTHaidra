@@ -47,9 +47,7 @@ High-Frequency Trading Engineer & Web3 Developer
 - Develop **full-stack web apps** (APIs + frontend) for analytics, reporting, and monitoring.  
 - Integrate **Web3 wallets & smart-contract interactions** into trading and analytics tools.
 
----
-#### 💻 Main Stack 
-
+--- 
 ### 🧰 Tech Stack & Platforms (Badges)
 
 #### 🔥 Main Stack – .NET, C#, MetaTrader
