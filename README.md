@@ -34,7 +34,7 @@ High-Frequency Trading Engineer & Web3 Developer
 - Expert in **MetaTrader 4/5**, **MQL4/5**, and **.NET C#** (WinForms, WPF, Blazor, ASP.NET Core APIs).  
 - Full-stack developer with **Next.js**, **Node.js**, **TypeScript**, **React**, and **Tailwind CSS** for dashboards, CRMs, and admin panels.  
 - Web3 developer integrating **EVM**, **MetaMask**, centralized & decentralized exchanges, and automation bots.  
-- Based in **Egypt**, open to **remote worldwide** collaborations.
+- Based in **Egypt<->Algerian**, open to **remote worldwide** collaborations.
 
 ---
 
