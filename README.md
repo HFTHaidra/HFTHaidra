@@ -40,7 +40,7 @@ High-Frequency Trading Engineer & Web3 Developer
 
 ### 🔭 What I Do
 
-- Design **ultra-low-latency trade copiers** between MT4/MT5, cTrader, and crypto exchanges (REST & WebSocket).  
+- Design **ultra-low-latency trade copiers** between MT4/MT5, cTrader, and crypto exchanges (REST & WebSocket , FIX API 4.4...).  
 - Build **copy trading platforms, social trading portals, and CRMs** for brokers (KYC, payments, multi-role dashboards).  
 - Create **Expert Advisors, indicators, and scripts** for MetaTrader (scalping, arbitrage, risk management, account management).  
 - Connect **TradingView / Pine Script** strategies to real execution on CEX/DEX and broker platforms.  
