@@ -164,12 +164,7 @@ High-Frequency Trading Engineer & Web3 Developer
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-#### ⚙️ MetaTrader Platform APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/MetaTrader_APIs-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader APIs" />
-  <img src="https://img.shields.io/badge/MT4_MT5_Manager_API-1F2933?style=for-the-badge&logo=metatrader&logoColor=white" alt="Manager APIs" />
-  <img src="https://img.shields.io/badge/MT4_MT5_Admin_API-374151?style=for-the-badge&logo=metatrader&logoColor=white" alt="Administrator APIs" />
-</p>
+ 
 
 ### 🧠 Core Domains
 
