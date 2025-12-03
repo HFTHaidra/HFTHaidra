@@ -59,9 +59,9 @@ High-Frequency Trading Engineer & Web3 Developer
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Web_API-232F3E?style=for-the-badge&logo=api&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/MetaTrader_4-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 4" />
+  <img src="https://img.shields.io/badge/MetaTrader_4-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 5/4,MQL4/5" />
   <img src="https://img.shields.io/badge/MetaTrader_5-FF9900?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 5" />
-  <img src="https://img.shields.io/badge/MQL4_/_MQL5-003366?style=for-the-badge&logo=codeproject&logoColor=white" alt="MQL4/5" />
+  
 </p>
 
 #### 🧩 Next.js, JavaScript & Frontend Ecosystem
