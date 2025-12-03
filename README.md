@@ -50,19 +50,37 @@ High-Frequency Trading Engineer & Web3 Developer
 --- 
 ### 🧰 Tech Stack & Platforms (Badges)
 
-#### 🔥 Main Stack – .NET, C#, MetaTrader
+#### 🔥 Main Stack – .NET, C#, Trading & Broker APIs
 <p align="left">
+  <!-- .NET platform -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
   <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white" alt="WPF" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=asp.net&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Web_API-232F3E?style=for-the-badge&logo=api&logoColor=white" alt="Web API" />
-  <img src="https://img.shields.io/badge/MetaTrader_4-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 5/4,MQL4/5" />
-  <img src="https://img.shields.io/badge/MetaTrader_5-FF9900?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 5" />
-  
+  <img src="https://img.shields.io/badge/Web_API-232F3E?style=for-the-badge&logoColor=white" alt="Web API" />
+
+  <!-- Trading / finance APIs -->
+  <img src="https://img.shields.io/badge/FIX_API_4.4-PrimeXM-003366?style=for-the-badge" alt="FIX API 4.4 PrimeXM" />
+  <img src="https://img.shields.io/badge/MetaTrader_4%2F5-Manager_%26_Server_API-1C2C4C?style=for-the-badge&logo=metatrader&logoColor=white" alt="MetaTrader 4/5 Manager &amp; Server API" />
+
+  <!-- Charting / scripting / bots -->
+  <img src="https://img.shields.io/badge/TradingView-1E96C8?style=for-the-badge&logo=tradingview&logoColor=white" alt="TradingView" />
+  <img src="https://img.shields.io/badge/Pine_Script-1E96C8?style=for-the-badge" alt="Pine Script" />
+  <img src="https://img.shields.io/badge/Trading_Bots_%26_Connectors-232F3E?style=for-the-badge" alt="Trading Bots &amp; Connectors" />
+
+  <!-- Crypto exchange APIs -->
+  <img src="https://img.shields.io/badge/DUX_Exchange_API-0B1020?style=for-the-badge" alt="DUX Exchange API" />
+  <img src="https://img.shields.io/badge/CUX_Exchange_API-0B1020?style=for-the-badge" alt="CUX Exchange API" />
+  <img src="https://img.shields.io/badge/Binance_API-181717?style=for-the-badge&logo=binance&logoColor=white" alt="Binance API" />
+  <img src="https://img.shields.io/badge/Bybit_API-FFB000?style=for-the-badge&logo=bybit&logoColor=white" alt="Bybit API" />
+  <img src="https://img.shields.io/badge/OKX_API-000000?style=for-the-badge&logo=okx&logoColor=white" alt="OKX API" />
+  <img src="https://img.shields.io/badge/HyperX_Exchange_API-111827?style=for-the-badge" alt="HyperX Exchange API" />
+  <img src="https://img.shields.io/badge/Apex_Exchange_API-111827?style=for-the-badge" alt="Apex Exchange API" />
+  <img src="https://img.shields.io/badge/Astradex_Exchange_API-111827?style=for-the-badge" alt="Astradex Exchange API" />
 </p>
+
 
 #### 🧩 Next.js, JavaScript & Frontend Ecosystem
 <p align="left">
