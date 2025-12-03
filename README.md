@@ -29,7 +29,7 @@ High-Frequency Trading Engineer & Web3 Developer
 
 ### 👨‍💻 About Me
 
-- Professional programmer with **11+ years** of software development and **6+ years** in trading & financial systems.  
+- Professional programmer with **11+ years** of software development and **7+ years** in trading & financial systems.  
 - Freelance developer building **HFT infrastructure, trade copiers, risk engines, and trading bots** for brokers, prop firms, and individual traders.  
 - Expert in **MetaTrader 4/5**, **MQL4/5**, and **.NET C#** (WinForms, WPF, Blazor, ASP.NET Core APIs).  
 - Full-stack developer with **Next.js**, **Node.js**, **TypeScript**, **React**, and **Tailwind CSS** for dashboards, CRMs, and admin panels.  
