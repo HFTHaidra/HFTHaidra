@@ -287,12 +287,17 @@ Experienced in high-performance backend services (**.NET C#**), modern frontend 
 
 > Most of my production work for brokers, prop firms, and trading businesses is private and under NDA, so only a portion of what I build is visible publicly on GitHub.
 
+### Key Strength Areas
+
+- Trading systems architecture spanning frontend portals, backend services, and execution-support components
+- Broker and platform connectivity for reliable routing, interoperability, and operational integration
+- Copy trading, signal distribution, account synchronization, and multi-platform operational workflows
+- Risk-aware product logic, admin tooling, monitoring interfaces, and scalable integration design
 ---
 
 ### 📫 How to Reach Me
 
-- 📧 Email: **HFTHaidra@gmail.com**  
-- 🌐 Website: **https://HFT8.com**  
+- 📧 Email: **HFTHaidra@gmail.com**   
 - 💬 Telegram: **https://t.me/HFTHaidra**  
 - 📺 YouTube: **https://youtube.com/@HFTHaidra**
 
