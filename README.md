@@ -33,6 +33,16 @@ Software engineer with **11+ years** of development experience and **6+ years** 
 Focused on designing and building scalable trading infrastructures, **MetaTrader integrations**, and **full-stack trading platforms** including CRM systems, copy trading environments, and multi-platform execution workflows.
 
 Experienced in high-performance backend services (**.NET C#**), modern frontend architectures (**Next.js / React / TypeScript**), and real-time systems using **REST** and **WebSocket APIs**. Strong background in broker integrations, exchange connectivity, and production-grade trading automation.
+
+### MetaTrader Administration & Infrastructure
+
+- Installation, configuration, and lifecycle management of **MetaTrader 5 servers** and cluster environments
+- Backup strategies, disaster recovery planning, and **high-availability failover architecture**
+- Security implementation including encryption, authentication layers, firewall rules, and DDoS mitigation
+- Client and account lifecycle management: onboarding, permissions, balance control, and credit handling
+- Financial instrument configuration: symbols, groups, spreads, swaps, margin logic, and risk policies
+- Data integration, reporting pipelines, performance monitoring, and operational broker support
+
 ### 👨‍💻 About Me
 
 - Professional programmer with **11+ years** of software development and **7+ years** in trading & financial systems.  
