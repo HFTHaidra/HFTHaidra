@@ -1,15 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Haidra Mohamed Elamine</h1>
 <h3 align="center">
-Senior Trading Systems Engineer & Architect
-  MetaTrader · CRM Integration · Execution Systems
-
+Senior Trading Systems Engineer & Architect<br/>
+MetaTrader · CRM Integration · Execution Systems
 </h3>
- 
 
 <h5 align="center">
-Focused on long-term remote collaboration in trading infrastructure, MetaTrader integrations,
-copy trading systems, CRM platforms, and execution workflows.
+Focus: Long-term remote collaboration
 </h5>
 
 <p align="center">
