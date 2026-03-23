@@ -253,17 +253,39 @@ Experienced in high-performance backend services (**.NET C#**), modern frontend 
 
 ---
 
-### 🚀 Highlighted Projects
+### Key Projects
 
-- 🟢 **HFT Arbitrage EA (MT4/MT5)** – High-frequency arbitrage Expert Advisor with external data feeds.  
-- 🟣 **iHaidra** – High frequency trading algorithm & tools for latency-based strategies.  
-- 📈 **Deep Reinforcement Learning for Automated Stock Trading** – RL agents connected to market data.  
-- 🌐 **HFT8 Platform** – Social & copy trading platform with CRM, KYC, payments, and multi-role dashboards.  
+- **Trading CRM & Execution Platform (2024–2026)**  
+  Multi-system trading platform built with **Next.js, React, TypeScript, and .NET C# services**. Covers client and admin dashboards, account connectivity, copy trading rooms, signal workflows, wallet and billing modules, subscription plans, documentation flows, and risk-management controls.
 
-🔒 Most of my production work for brokers, prop firms and individual clients
-(MetaTrader Manager/Admin API integrations, C#/.NET backends, REST/WebSocket
-bridges, HFT tools, risk engines, trade copiers, automation scripts) is private
-and under NDA, so only a small part of what I build is visible on GitHub.
+- **REST API Copier (2025)**  
+  REST-based trade copier synchronizing trades across multiple brokers through secure JSON endpoints with low-latency execution and multi-account delivery.
+
+- **Copy Trading C-Manager (2024)**  
+  Windows multi-account copier built with **.NET WPF**. Supports multiple rooms, advanced configuration, risk settings, mapping controls, and ultra-low copy speeds in execution-sensitive environments.
+
+- **MT5 Manager REST API Copier (2023)**  
+  Manager-level copier synchronizing trades from MetaTrader Manager environments to MT4/MT5 accounts through service-based integration workflows.
+
+- **Social & Copy Trading Platform (.NET 8) (2024)**  
+  Full trading platform built with **.NET 8, C#, and Blazor**. Includes API integrations, payment workflows, identity verification, and operational dashboards for client, support, and admin roles.
+
+- **Laravel Trading Analytics Project (2023)**  
+  PHP-Laravel web application for account viewing and performance tracking, including dashboards for history, open positions, and equity monitoring.
+
+- **HFT Arbitrage EA (iHaidra) (2020)**  
+  MT4/MT5 Expert Advisor using WebSocket connectivity between MetaTrader terminals and arbitrage engines for fast execution scenarios. Open-source project published on GitHub.
+
+- **Deep Reinforcement Learning Stock Trading Agent (2021)**  
+  AI-based trading agent using PPO, A2C, and DDPG with Python, Jupyter, and FXCM API integration for research-oriented automated trading workflows.
+
+- **Crypto Arbitrage Bot (2021)**  
+  Automated arbitrage system across Binance, OKX, Bybit, and other exchanges, with monitoring and strategy experimentation through Python/Jupyter tooling.
+
+- **Custom Trading Integrations for Clients (2020–2025)**  
+  Tailored delivery for brokers, prop firms, and private clients across MT4/MT5 Manager APIs, FIX API connectivity, REST services, automation, and platform integration work.
+
+> Most of my production work for brokers, prop firms, and trading businesses is private and under NDA, so only a portion of what I build is visible publicly on GitHub.
 
 ---
 
