@@ -188,7 +188,6 @@ In addition to broker and MetaTrader infrastructure, I also work with selected c
 - Email: **HFTHaidra@gmail.com**
 - GitHub: **https://github.com/HFTHaidra**
 - Telegram: **https://t.me/HFTHaidra**
-- YouTube: **https://youtube.com/@HFTHaidra**
-- Website: **https://hft8.com**
+- YouTube: **https://youtube.com/@HFTHaidra** 
 
 If you are a **broker, prop firm, trading company, or serious infrastructure client** and need help with **trading systems, MetaTrader integrations, broker connectivity, copy trading, CRM platforms, or execution workflows**, feel free to reach out.
