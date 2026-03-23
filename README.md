@@ -24,9 +24,7 @@ Focus: Long-term remote collaboration
   </a>
   
 </p>
-
----
----
+ 
 
 ### Professional Summary
 
