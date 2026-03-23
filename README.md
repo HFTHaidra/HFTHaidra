@@ -22,9 +22,7 @@ Focus: Long-term remote collaboration
   <a href="https://t.me/HFTHaidra" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-@HFTHaidra-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://hft8.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-HFT8.com-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  
 </p>
 
 ---
