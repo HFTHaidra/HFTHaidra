@@ -1,12 +1,16 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Haidra Mohamed Elamine</h1>
 <h3 align="center">
-MetaTrader Developer, Full-Stack Developer, API Integration, C# .NET Backend
+Senior Trading Systems Engineer & Architect
+</h3>
+<h3 align="center">
+MetaTrader · CRM Integration · Execution Systems
 </h3>
 
-<h3 align="center">
-High-Frequency Trading Engineer & Web3 Developer
-</h3>
+<h5 align="center">
+Focused on long-term remote collaboration in trading infrastructure, MetaTrader integrations,
+copy trading systems, CRM platforms, and execution workflows.
+</h5>
 
 <p align="center">
   <p align="center">
