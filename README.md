@@ -10,20 +10,21 @@ Focus: Long-term remote collaboration
 </h5>
 
 <p align="center">
-  <p align="center">
-  <a href="https://hft8.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-HFT8.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="mailto:HFTHaidra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-HFTHaidra%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/HFTHaidra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-HFTHaidra-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://youtube.com/@HFTHaidra" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-@HFTHaidra-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://t.me/HFTHaidra" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@HFTHaidra-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</p>
+  <a href="https://hft8.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-HFT8.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ---
