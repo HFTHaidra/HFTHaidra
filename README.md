@@ -26,7 +26,15 @@ Focus: Long-term remote collaboration
 </p>
 
 ---
+---
 
+### Professional Summary
+
+Software engineer with **11+ years** of development experience and **6+ years** specializing in financial trading systems.
+
+Focused on designing and building scalable trading infrastructures, **MetaTrader integrations**, and **full-stack trading platforms** including CRM systems, copy trading environments, and multi-platform execution workflows.
+
+Experienced in high-performance backend services (**.NET C#**), modern frontend architectures (**Next.js / React / TypeScript**), and real-time systems using **REST** and **WebSocket APIs**. Strong background in broker integrations, exchange connectivity, and production-grade trading automation.
 ### 👨‍💻 About Me
 
 - Professional programmer with **11+ years** of software development and **7+ years** in trading & financial systems.  
