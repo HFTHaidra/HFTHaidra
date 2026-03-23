@@ -43,15 +43,13 @@ Experienced in high-performance backend services (**.NET C#**), modern frontend 
 - Financial instrument configuration: symbols, groups, spreads, swaps, margin logic, and risk policies
 - Data integration, reporting pipelines, performance monitoring, and operational broker support
 
-### 👨‍💻 About Me
+### About Me
 
-- Professional programmer with **11+ years** of software development and **7+ years** in trading & financial systems.  
-- Freelance developer building **HFT infrastructure, trade copiers, risk engines, and trading bots** for brokers, prop firms, and individual traders.  
-- Expert in **MetaTrader 4/5**, **MQL4/5**, and **.NET C#** (WinForms, WPF, Blazor, ASP.NET Core APIs).  
-- Full-stack developer with **Next.js**, **Node.js**, **TypeScript**, **React**, and **Tailwind CSS** for dashboards, CRMs, and admin panels.  
-- Web3 developer integrating **EVM**, **MetaMask**, centralized & decentralized exchanges, and automation bots.  
-- open to **remote worldwide** collaborations.
-
+- Software engineer with **11+ years** of development experience and **6+ years** specializing in financial trading systems.
+- Focused on **MetaTrader integrations**, **trading infrastructure**, **copy trading systems**, **CRM platforms**, and **execution workflows**.
+- Strong experience in **.NET C# backend services**, **Next.js / React / TypeScript frontend systems**, and real-time integrations using **REST**, **WebSocket**, and broker APIs.
+- Experienced in building operational platforms for brokers, prop firms, and trading businesses, including admin dashboards, wallet modules, reporting flows, risk controls, and account connectivity.
+- Open to **long-term remote collaboration**.
 ---
 
 ### 🔭 What I Do
