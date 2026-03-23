@@ -33,7 +33,7 @@ Software engineer with **11+ years** of development experience and **6+ years** 
 
 Focused on designing and building scalable trading infrastructures, **MetaTrader integrations**, and **full-stack trading platforms** including CRM systems, copy trading environments, and multi-platform execution workflows.
 
-Experienced in high-performance backend services (**.NET C#**), modern frontend architectures (**Next.js / React / TypeScript**), and real-time systems using **REST** and **WebSocket APIs**. Strong background in broker integrations, exchange connectivity, and production-grade trading automation.
+Experienced in high-performance backend services (**.NET C#**, **C++**), modern frontend architectures (**Next.js / React / TypeScript**), and real-time systems using **REST** and **WebSocket APIs**. Strong background in broker integrations, exchange connectivity, and production-grade trading automation.
 
 ---
 
