@@ -1,8 +1,9 @@
 <h1 align="center">Haidra Mohamed Elamine</h1>
 
 <h3 align="center">
-Senior Trading Systems Engineer & Architect<br/>
-MetaTrader · CRM Integration · Execution Systems
+Senior Full-Stack Software Engineer
+<br/>
+CRM Systems • Trading Systems Architecture • Backend & API Integrations
 </h3>
 
 <h5 align="center">
